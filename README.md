@@ -31,8 +31,8 @@ If A, B, and D are anagrams:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/morenomoreno/beyonnex-anagram
-   cd beyonnex-anagram
+   git clone https://github.com/morenomoreno/kotlin-anagram
+   cd kotlin-anagram
    ```
 
 2. Build the project:
