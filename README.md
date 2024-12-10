@@ -1,4 +1,4 @@
-# beyonnex-anagram
+# kotlin-anagram
 
 This repository contains an interactive Kotlin program that provides two main features:
 1. Checks if two texts are anagrams of each other.
